@@ -5,7 +5,7 @@
 
 Ecommerce Website using MERN stack
 
-    For the FE I am using : 
+  
         - Reactjs
         - Material UI
         - Redux
